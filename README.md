@@ -1,1 +1,1 @@
-# Earth-day
+# Earthday
